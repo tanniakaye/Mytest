@@ -1,5 +1,5 @@
 # simple python program to test GitHub
-# combines items from both lists and creates a new list
+# combines items from both lists and creates a new list of tuples
 # iterating over two lists simultaniously
 
 first_list = [1, 2, 3, 4]
